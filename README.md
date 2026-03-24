@@ -2,14 +2,14 @@
 
 > Thème WordPress personnalisé pour clinique médicale — développé par **Bayane**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Bientôt_en_ligne-gray?style=for-the-badge)](https://github.com/Bayane-max219/medicare-tana-wp-theme)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Voir_le_site-0a6bb8?style=for-the-badge)](http://medicare-tana.infinityfreeapp.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code_source-181717?style=for-the-badge&logo=github)](https://github.com/Bayane-max219)
 
 ---
 
 ## 🔗 Démo en ligne
 
-**URL** : *Déploiement en cours — disponible prochainement*
+**URL** : http://medicare-tana.infinityfreeapp.com
 
 | Accès | Identifiant | Mot de passe |
 |-------|-------------|--------------|
