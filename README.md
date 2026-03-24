@@ -81,6 +81,16 @@ cp -r medicare-tana/ C:/wamp64/www/votre-site/wp-content/themes/
 | Contact | Formulaire AJAX → email + DB |
 | Maps | Google Maps — Alasora, Antananarivo |
 
+### Captures d'écran
+
+![01 - Accueil](screenshoots/01-Accueil.png)
+![02 - Services](screenshoots/02-Services.png)
+![03 - Médecins](screenshoots/03-Medecins.png)
+![04 - À propos](screenshoots/04-Apropos.png)
+![05 - Contact](screenshoots/05-Contact.png)
+![06 - Géolocalisation](screenshoots/06-GeoLocalisation.png)
+![07 - Footer](screenshoots/07-Footer.png)
+
 ---
 
 ## 👨‍💻 Développeur
